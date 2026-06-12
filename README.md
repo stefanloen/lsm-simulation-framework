@@ -1,5 +1,5 @@
 # Liquid State Machine simulation framework
-This codebase contains the simulation framework that is used in the research titled "Neuromorphic Liquid State Machine for real-time EEG classification". The research is publically available at [text](http://repository.tudelft.nl/).
+This codebase contains the simulation framework that is used in the research titled "Neuromorphic Liquid State Machine for real-time EEG classification". The research is publicly available at [text](http://repository.tudelft.nl/).
 
 # Setup
 Ubuntu: 22.04 on WSL distro
